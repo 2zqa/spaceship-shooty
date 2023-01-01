@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Game end
 
 highscore_add("player 1", points)
 room_restart();
+room_goto(room_menu);

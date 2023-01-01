@@ -32,7 +32,6 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_974BCC0","path":"rooms/room_game/room_game.yy",},
     {"name":"inst_41E18964","path":"rooms/room_game/room_game.yy",},
     {"name":"inst_48F0A882","path":"rooms/room_game/room_game.yy",},
     {"name":"inst_6392E786","path":"rooms/room_game/room_game.yy",},
@@ -40,6 +39,7 @@
     {"name":"inst_2E95BD78","path":"rooms/room_game/room_game.yy",},
     {"name":"inst_144EBC7D","path":"rooms/room_game/room_game.yy",},
     {"name":"inst_5FD6401B","path":"rooms/room_game/room_game.yy",},
+    {"name":"inst_974BCC0","path":"rooms/room_game/room_game.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
